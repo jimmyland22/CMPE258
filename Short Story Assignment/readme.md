@@ -1,6 +1,5 @@
 # Short Story Assignment for CMPE258
 
-Screenshot along the way are included. Notes for specific items of note below
 
 ## Research Paper
 Privacy in Deep Learning: A Survey
