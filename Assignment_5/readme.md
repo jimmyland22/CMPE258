@@ -27,4 +27,4 @@ https://github.com/offirinbar/NYC_Taxi/blob/master/NYC_Taxi_PyTorch.ipynb
 Followed Kaggle notebook at
 https://www.kaggle.com/sandeepkumar121995/eda-data-cleaning-xg-boost
 
-Very interesting that the author added airport locations as a feature.
+This author did a lot of EDA which was very enlightening. Very interesting that the author added airport locations as a feature.
