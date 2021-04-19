@@ -17,3 +17,14 @@ Followed tutorial and example colab
 https://www.youtube.com/watch?v=VrBoQCchJQU
 
 https://colab.research.google.com/gist/rafiqhasan/2164304ede002f4a8bfe56e5434e1a34/dl-e2e-taxi-dataset-tfx-e2e.ipynb
+
+
+### Part c
+Following the tutorial and code from
+https://github.com/offirinbar/NYC_Taxi/blob/master/NYC_Taxi_PyTorch.ipynb
+
+## Part d
+Followed Kaggle notebook at
+https://www.kaggle.com/sandeepkumar121995/eda-data-cleaning-xg-boost
+
+Very interesting that the author added airport locations as a feature.
