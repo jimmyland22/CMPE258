@@ -7,19 +7,17 @@ Implement complete autograd framework in python and numpy  and mnist classifier 
 Following examples from: https://github.com/iamtrask/Grokking-Deep-Learning/blob/master/Chapter13%20-%20Intro%20to%20Automatic%20Differentiation%20-%20Let's%20Build%20A%20Deep%20Learning%20Framework.ipynb
 
 
-### Part b
-Followed tutorial and example colab
-https://www.youtube.com/watch?v=VrBoQCchJQU
+### Part b - Keras
+Followed tutorial and example colab from Fast.ai to download images
+https://colab.research.google.com/github/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb#scrollTo=UxMJK_UJbIAO
 
-https://colab.research.google.com/gist/rafiqhasan/2164304ede002f4a8bfe56e5434e1a34/dl-e2e-taxi-dataset-tfx-e2e.ipynb
+Keras tutorial from
+https://keras.io/examples/vision/image_classification_from_scratch/
 
 
-### Part c
-Following the tutorial and code from
-https://github.com/offirinbar/NYC_Taxi/blob/master/NYC_Taxi_PyTorch.ipynb
+### Part b - Pytorch
+Followed tutorial and example colab from Fast.ai to download images
+https://colab.research.google.com/github/fastai/course-v3/blob/master/nbs/dl1/lesson2-download.ipynb#scrollTo=UxMJK_UJbIAO
 
-## Part d
-Followed Kaggle notebook at
-https://www.kaggle.com/sandeepkumar121995/eda-data-cleaning-xg-boost
-
-This author did a lot of EDA which was very enlightening. Very interesting that the author added airport locations as a feature.
+Pytorch tutorial from
+https://colab.research.google.com/github/omerbsezer/Fast-Pytorch/blob/master/Learning_Pytorch/Pytorch_Playground.ipynb
